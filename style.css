@@ -1,0 +1,31 @@
+
+header, #banner, footer, .btn, i{
+    background: linear-gradient(to right, #a517ba, #5f1782);
+}
+#testimonials .col-md{
+    border-left: 4px solid #5f1782;
+}
+.d1{
+    content: "";
+    padding: 3px 1px;
+    border: 0px;
+    width: 5%;
+    margin: auto;
+    background: linear-gradient(to right, #a517ba, #5f1782);
+}
+.d2{
+    content: "";
+    padding: 2px 100px;
+    position: relative;
+    right: 85px;
+    border: 0px;
+    background: linear-gradient(to right, #a517ba, #5f1782);
+}
+#banner .pt-5{
+    padding-top: 115px !important;
+}
+#social-media a:hover{
+    position: relative;
+    bottom: 10px;
+    transition: all 270ms;
+}
